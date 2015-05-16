@@ -62,6 +62,10 @@ CSSLP® - Certified Secure Software Lifecycle Professional
 HCISPP℠ - HealthCare Information Security and Privacy Practitioner
 SSCP® - Systems Security Certified Practitioner
 
+#### http://www.dfcb.org/
+#### http://www.giac.org/certifications/forensics
+
+
 
 ### camera hakcing
 
