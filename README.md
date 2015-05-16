@@ -30,14 +30,37 @@ Japanese invents it, saying centralized curreny system needs to be broken down.
 
 metagoofil -d slt.lk -t doc,pdf -l 200 -n 50 -o applefiles -f results.html
 
-## sudo apt-get update
+### sudo apt-get update
 Update the repository
 
-## sudo apt-get upgrade
+### sudo apt-get upgrade
 Before upgrade make sure you update
 
-## sudo apt-get dist-update
+### sudo apt-get dist-update
 Update the distribution
+
+
+
+# Forensics
+
+### link 1 - Digital Forensics
+http://www.computersecuritystudent.com/FORENSICS/AUTOPSY/lesson1/index.html
+
+### Forcensic certifications
+http://www.tomsitpro.com/articles/computer-forensics-certifications,2-650.html
+
+#### https://www.isc2.org/concentrations/default.aspx
+CCFP - Certified Cyber Forensics Professional
+CCSP - Certified Cloud Security Professional
+CISSP® - Certified Information Systems Security Professional
+
+Architecture (CISSP-ISSAP®)
+Engineering (CISSP-ISSEP®)
+Management (CISSP-ISSMP®)
+
+CSSLP® - Certified Secure Software Lifecycle Professional
+HCISPP℠ - HealthCare Information Security and Privacy Practitioner
+SSCP® - Systems Security Certified Practitioner
 
 
 ### camera hakcing
