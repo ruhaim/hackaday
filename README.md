@@ -26,10 +26,18 @@ this folder contains all the materials from SLIIT hackaday workshop
 ## Bit-coin
 Japanese invents it, saying centralized curreny system needs to be broken down.
 
+#KaliLinux
 
+metagoofil -d slt.lk -t doc,pdf -l 200 -n 50 -o applefiles -f results.html
 
+## sudo apt-get update
+Update the repository
 
+## sudo apt-get upgrade
+Before upgrade make sure you update
 
+## sudo apt-get dist-update
+Update the distribution
 
 
 ### camera hakcing
